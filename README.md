@@ -1,6 +1,14 @@
 # KITT Bot - An IRC Bot Inspired by Knight Rider
-
-KITT Bot is a multifunctional IRC bot drawing inspiration from the iconic intelligent car KITT from the classic TV series "Knight Rider". This project is developed in C#, aiming to offer a wide range of functionalities, from channel moderation and user interaction to data collection and analysis. As I continue to learn and master C#, KITT Bot serves as both a passion project and a platform for enhancing my programming skills.
+<table>
+  <tr>
+    <td width="65%">
+      <img src="https://github.com/pajus1337/KITT_Bot/assets/74528115/6bd7c425-ad74-47e4-a12e-bd4d31f6eaa2" alt="KITT Bot - Next Generation IRC Bot inspired by Knight Rider, showcasing advanced channel moderation, user interaction, and data analysis features." width="100%" height="auto"/>
+    </td>
+    <td width="35%">
+      <p>KITT Bot is a multifunctional IRC bot drawing inspiration from the iconic intelligent car KITT from the classic TV series "Knight Rider". This project is developed in C#, aiming to offer a wide range of functionalities, from channel moderation and user interaction to data collection and analysis. As I continue to learn and master C#, KITT Bot serves as both a passion project and a platform for enhancing my programming skills.</p>
+    </td>
+  </tr>
+</table>
 
 ## Core Features:
 
